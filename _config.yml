@@ -1,0 +1,11 @@
+# basic options
+title: Testing Jekyll
+author: Bharath Seshadri
+email: seshadri.bharath@gmail.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  bharath.seshadri
+
+# Build settings
+markdown: kramdown
+theme: minima
